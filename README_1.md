@@ -40,7 +40,7 @@ for (const property in object) {
   // do something with object property
 }
 ```
-*The switch statement can be used for multiple branches based on equality checking.
+* The switch statement can be used for multiple branches based on equality checking.
 ```
 Example:
 switch (action) {
