@@ -2,10 +2,10 @@
 
 ## javaScript
 
-1. Concept:
+1. **Concept**:
 JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well.
 
-2. Variable:
+2. **Variable**:
 Variables in JavaScript are declared using one of three keywords: let, const, or var.
 let allows you to declare block-level variables. The declared variable is available from the block it is enclosed in.
 * let allows you to declare block-level variables. The declared variable is available from the block it is enclosed in.
