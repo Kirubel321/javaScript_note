@@ -1,4 +1,4 @@
-# javascript note
+# javaScript notes
 
 * **javaScript_note_1** :- About javaScript Concept, Variables and Datatype
 * **javaScript_note_2** :- About javaScript Conditional statement and Loops
