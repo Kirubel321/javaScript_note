@@ -1,5 +1,5 @@
 # javaScript
-## Function,Arrays,DOM Manipulation
+## Function,Arrays and DOM Manipulation
 
 1. **Function**:
 A JavaScript function can take 0 or more parameters. The function body can contain as many statements as you like and can declare its own variables which are local to that function. The return statement can be used to return a value at any time, terminating the function. If no return statement is used (or an empty return with no value), JavaScript returns undefined.
