@@ -1,8 +1,9 @@
 # javascript
+## Conditional statement and loops
 
 1. **Conditional statement**
 
-* JavaScript has a similar set of control structures to other languages in the C family. Conditional statements are supported by if and else
+JavaScript has a similar set of control structures to other languages in the C family. Conditional statements are supported by if and else
 ```
 Example:
 let name = "kittens";
@@ -16,7 +17,7 @@ if (name === "puppies") {
 name === "kittens meow";
 ```
 2. **loops**
-* JavaScript has while loops and do...while loops. The first is good for basic looping; the second is for loops where you wish to ensure that the body of the loop is executed at least once:
+JavaScript has while loops and do...while loops. The first is good for basic looping; the second is for loops where you wish to ensure that the body of the loop is executed at least once:
 ```
 Examle:
 while (true) {
@@ -29,7 +30,7 @@ do {
 } while (inputIsNotValid(input));
 
 ```
-* JavaScript also contains two other prominent for loops: for...of, which iterates over iterables, most notably arrays, and for...in, which visits all enumerable properties of an object.
+JavaScript also contains two other prominent for loops: for...of, which iterates over iterables, most notably arrays, and for...in, which visits all enumerable properties of an object.
 ```
 Example:
 for (const value of array) {
@@ -40,7 +41,7 @@ for (const property in object) {
   // do something with object property
 }
 ```
-* The switch statement can be used for multiple branches based on equality checking.
+The switch statement can be used for multiple branches based on equality checking.
 ```
 Example:
 switch (action) {
