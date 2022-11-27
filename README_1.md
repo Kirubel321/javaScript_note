@@ -1,6 +1,6 @@
-# javascript_class
+# javascript note
 
-## javaScript
+## Concept and Variable
 
 1. **Concept**:
 JavaScript is a multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages — many structures from those languages apply to JavaScript as well.
